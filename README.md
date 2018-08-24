@@ -17,3 +17,11 @@
 - Mengirim file ke GITHUB
 - Mengubah file di GITHUB
 - Mem-pull dari local
+
+## Menggunakan GIT di Team
+- Mulai bekerja dengan melihat Issue Tracker
+- Bekerja tidak pada master, namun pada branch tersendiri
+- Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
+- Merubah kode pada branch tersebut
+- Meng-commmit kode
+- Mem-push branch tersebut
