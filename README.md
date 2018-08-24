@@ -19,5 +19,5 @@
 - Mem-pull dari local
 
 ## Kesimpulan
-- Dengan Git dan Github, kode akan aman dari hard-disk rusak.
+- Dengan Git dan GitHub, kode akan aman dari hard-disk rusak.
 - Memiliki repository Github yang public, akan menjadikan repository tersebut sebagai portfolio
