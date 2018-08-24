@@ -23,5 +23,5 @@
 - Bekerja tidak pada master, namun pada branch tersendiri
 - Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
 - Merubah kode pada branch tersebut
-- Meng-commmit kode
+- Meng-commmit kode dan me-review perubahan pada file terlebih dahulu
 - Mem-push branch tersebut
