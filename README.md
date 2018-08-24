@@ -1,4 +1,4 @@
-# pythonthusiast-daftar-buku
+# Daftar Buku - Pythonthusiast
 
 # Menggunakan GIT dengan CLI
 # - Membuat SSH-Key
