@@ -18,6 +18,14 @@
 - Mengubah file di GITHUB
 - Mem-pull dari local
 
+## Menggunakan GIT di Team
+- Mulai bekerja dengan melihat Issue Tracker
+- Bekerja tidak pada master, namun pada branch tersendiri
+- Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
+- Merubah kode pada branch tersebut
+- Meng-commmit kode dan mereview perubahan pada file terlebih dahulu
+- Mem-push branch tersebut
+
 ## Kesimpulan
 - Dengan Git dan GitHub, kode akan aman dari hard-disk rusak.
 - Memiliki repository Github yang public, akan menjadikan repository tersebut sebagai portfolio
