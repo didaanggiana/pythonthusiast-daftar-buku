@@ -15,3 +15,5 @@
 - Membuka project yang sudah di-clone di command line
 - Mengubah file
 - Mengirim file ke GITHUB
+- Mengubah file di GITHUB
+- Mem-pull dari local
