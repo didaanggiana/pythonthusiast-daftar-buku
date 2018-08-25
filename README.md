@@ -19,6 +19,7 @@
 - Mem-pull dari local
 
 ## Menggunakan GIT di Team
+- Pastikan menggunakan PyCharm terkini
 - Mulai bekerja dengan melihat Issue Tracker
 - Bekerja tidak pada master, namun pada branch tersendiri
 - Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
