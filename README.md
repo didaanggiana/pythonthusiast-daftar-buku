@@ -26,6 +26,10 @@
 - Meng-commmit kode dan mereview perubahan pada file terlebih dahulu
 - Mem-push branch tersebut
 
+## Instalasi Git
+- Menggunakan Linux, cukup dengan apt install git
+- Menggunakan Windows, dengan mendownload tool Git di https://git-scm.com/downloads
+
 ## Kesimpulan
 - Dengan Git dan GitHub, kode akan aman dari hard-disk rusak.
 - Memiliki repository Github yang public, akan menjadikan repository tersebut sebagai portfolio
