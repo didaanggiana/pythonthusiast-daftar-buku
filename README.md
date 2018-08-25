@@ -19,7 +19,7 @@
 - Mem-pull dari local
 
 ## Menggunakan GIT di Team
-- Pastikan menggunakan PyCharm terkini, download di situsnya langsung
+- Pastikan menggunakan PyCharm terkini, download di situsnya langsung, di http://jetbrains.com
 - Mulai bekerja dengan melihat Issue Tracker
 - Bekerja tidak pada master, namun pada branch tersendiri
 - Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
